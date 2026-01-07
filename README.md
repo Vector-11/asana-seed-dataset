@@ -299,7 +299,7 @@ python src/main.py
 ```bash
 # 1. Get API key from https://console.groq.com
 # 2. Edit .env file with your key
-GROQ_API_KEY=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
+GROQ_API_KEY=your_api_key
 
 # 3. Install Groq package (optional)
 pip install groq==0.10.0
