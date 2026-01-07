@@ -1,1 +1,2 @@
+*.sqlite filter=lfs diff=lfs merge=lfs -text
 output/asana_simulation.sqlite filter=lfs diff=lfs merge=lfs -text
