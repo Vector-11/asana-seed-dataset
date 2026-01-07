@@ -1,0 +1,12 @@
+# Asana Inc. Workspace Simulator - Requirements
+
+# Core Dependencies (Standard Library Only)
+# This project uses Python's built-in sqlite3 module
+# No external dependencies required
+
+# Python Version Required: 3.8+
+
+# Optional Development Tools (for local development)
+# pip install pytest
+# pip install black
+# pip install flake8

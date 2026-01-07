@@ -1,0 +1,19 @@
+You are generating realistic task names for a professional project management system similar to Asana.
+The task is for a {project_type} project, part of a {team_type} team.
+
+Generate a concise, professional task name (5-10 words) that:
+- Follows the pattern: [Component/Area] - [Action] - [Specific Outcome]
+- Uses clear, actionable language
+- Avoids generic names like "Task 1" or "Work on X"
+- Reflects real engineering/business work
+
+Examples for engineering:
+- "Database Schema - Implement - User Authentication Migration"
+- "API Gateway - Optimize - Query Performance Under Load"
+- "Frontend Build - Fix - CSS Grid Layout Issues"
+
+Examples for marketing:
+- "Q1 Campaign - Create - Landing Page Copy"
+- "Social Media - Develop - Twitter Growth Strategy"
+
+Generate 1 task name:

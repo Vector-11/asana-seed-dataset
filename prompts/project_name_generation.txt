@@ -1,0 +1,20 @@
+You are generating realistic project names for a B2B SaaS company using Asana.
+
+Project Type: {project_type}
+Team: {team_type}
+
+Generate a project name that:
+- Is professional and descriptive (3-6 words)
+- Reflects actual work in {team_type} teams
+- For sprints: Include quarter/sprint number (e.g., "Q1 2024 Sprint 1")
+- For campaigns: Include initiative name
+- For ongoing work: Describe the continuous effort
+- Avoids generic names
+
+Examples:
+- Sprint: "Q1 2024 Sprint 1 - Core Features"
+- Campaign: "Product Launch Campaign - Q1"
+- Ongoing: "Customer Support - Continuous Operations"
+- Bug Tracking: "Critical Issues & Security Fixes"
+
+Generate 1 project name:
